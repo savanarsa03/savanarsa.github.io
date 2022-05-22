@@ -1,0 +1,17 @@
+body {
+    padding: 250px;
+    background-image: url("pip.jpg");
+    background-size: cover;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ul {
+    margin-left: -40px;
+}
+li{
+    list-style: none;
+    display: inline-block;
+}
+.box{
+    margin: 20px;
+}
